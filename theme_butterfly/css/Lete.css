@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: 'sleek';
-    src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
+    src: url('https://cdn.jsdelivr.net/gh/linanyang/CDN/file/font/sleek.woff2');
 }
 
 
 /* 隐藏回到顶部按钮，替换为up酱 */
-
+/*
 #go-up i {
     display: none;
     background-color: transparent !important;
@@ -20,7 +20,7 @@
 #upj {
     transform: translate(-70px, -80px) !important;
 }
-
+*/
 
 /* 目录隐藏按钮颜色 */
 
@@ -196,11 +196,11 @@
 
 
 /*修复添加up酱后图标上移的bug*/
-
+/*
 .fas {
     line-height: 2;
 }
-
+*/
 
 /*页脚自定义字段字体颜色*/
 
@@ -244,11 +244,11 @@ a {
 
 
 /* 鼠标图标 */
-
+/*
 body {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto;
 }
-
+*/
 
 /*a标签*/
 
