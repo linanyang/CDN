@@ -1,7 +1,7 @@
 /* 自定义字体 */
 
 @font-face {
-    font-family: 'sleek';
+    font-display: swap;
     font-family: 'sleek';
     src: url('https://cdn.jsdelivr.net/gh/linanyang/CDN/file/font/sleek.woff2');
 }
@@ -239,17 +239,16 @@ a {
 @media screen and (max-width: 800px) {
     #aside_content div:not(:last-child) {
         display: none;
-        font-size: 13px;
+        font-size: 15px;
     }
 }
 
 
 /* 鼠标图标 */
-/*
+
 body {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto;
 }
-*/
 
 /*a标签*/
 
