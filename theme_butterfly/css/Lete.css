@@ -101,9 +101,9 @@
 
 #footer {
 /*    background: transparent !important; */
-    background-color: alpha($dark-black, .1)
 }
 
+/* 页脚文字位置 */
 #footer-wrap {
     position: absolute
     padding: 1.2rem 1rem 1.4rem
