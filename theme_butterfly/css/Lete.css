@@ -39,11 +39,11 @@
 
 
 /* 博主昵称颜色 */
-/*
+
 .author-info__name {
     color: #ff7242;
 }
-*/
+
 
 /* 评论框  */
 
@@ -98,10 +98,11 @@
 
 
 /* 页脚透明 */
-
+/*
 #footer {
-/*    background: transparent !important; */
+    background: transparent !important; 
 }
+*/
 
 /* 页脚文字位置 */
 #footer-wrap {
@@ -387,8 +388,8 @@ canvas:not(#ribbon-canvas), #web_bg {
     height: 160px
 }
 
-/* 打造效果渐变 */
-
+/* subtitle打造效果渐变 */
+/*
 @-webkit-keyframes Gradient {
     0% {
         background-position: 0 50%;
@@ -424,7 +425,7 @@ canvas:not(#ribbon-canvas), #web_bg {
         background-position: 0 50%;
     }
 }
-
+*/
 #subtitle {
     background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
     background-size: 400% 400%;
