@@ -142,8 +142,8 @@ var RENDERER = {
 		requestAnimationFrame(this.render);
 		this.controlStatus();
 		this.context.clearRect(0, 0, this.width, this.height);
-		this.context.globalAlpha = 0.5;
-		this.context.fillStyle = 'hsl(210, 35%, 50%)';
+		this.context.globalAlpha = 0.7;
+		this.context.fillStyle = 'hsl(0, 0, 90%)';
 		
 		for(var i = 0, count = this.fishes.length; i < count; i++){
 			this.fishes[i].render(this.context);
