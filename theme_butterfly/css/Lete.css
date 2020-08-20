@@ -425,7 +425,7 @@ canvas:not(#ribbon-canvas), #web_bg {
         background-position: 0 50%;
     }
 }
-*/
+
 #subtitle {
     background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
     background-size: 400% 400%;
@@ -445,4 +445,4 @@ canvas:not(#ribbon-canvas), #web_bg {
 
 #subtitle:before {
     background-color: rgba(0, 0, 0, 0);
-
+*/
