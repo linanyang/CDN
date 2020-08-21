@@ -143,7 +143,7 @@ var RENDERER = {
 		this.controlStatus();
 		this.context.clearRect(0, 0, this.width, this.height);
 		this.context.globalAlpha = 0.7;
-		this.context.fillStyle = 'hsl(0, 0, 90%)';
+		this.context.fillStyle = 'hsl(0, 0, 20%)';
 		
 		for(var i = 0, count = this.fishes.length; i < count; i++){
 			this.fishes[i].render(this.context);
