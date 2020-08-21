@@ -251,20 +251,20 @@ a {
 
 
 /* 鼠标图标 */
-
+/*
 body {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto;
 }
 
 /*a标签*/
-
+/*
 a:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
 
 
 /*按钮*/
-
+/*
 button:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
@@ -283,21 +283,21 @@ button:hover {
 
 
 /* 打赏 */
-
+/*
 .post-reward .reward-button {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
 
 
 /* 文章标签 */
-
+/*
 .layout_post .tag_share .post-meta__tags {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
 
 
 /* 评论区 */
-
+/*
 .vcol * {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
@@ -312,28 +312,28 @@ button:hover {
 
 
 /* 回复 */
-
+/*
 .vat {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
 
 
 /*i标签*/
-
+/*
 i:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
 
 
 /*up酱*/
-
+/*
 #upj:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
 
 
 /*页脚a标签*/
-
+/*
 #footer-wrap a:hover {
     text-decoration: none;
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
@@ -341,7 +341,7 @@ i:hover {
 
 
 /*分页器*/
-
+/*
 #pagination .page-number:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
@@ -352,7 +352,7 @@ i:hover {
 
 
 /*头部的导航栏*/
-
+/*
 #nav .site-page:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/JkuClT.png), auto;
 }
